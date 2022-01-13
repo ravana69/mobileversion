@@ -13,7 +13,7 @@ new Vue({
           name: "1",
           artist: "Lofi Rap Remix",
           cover: "https://www.dropbox.com/s/4g0ckmogf9zg8oy/img_20220109_161054.jpg?dl=1",
-          source: "https://www.dropbox.com/s/eltidpo2w58o8fy/kun_faya_kun__lofi_rap_mix_.mp3?dl=1",
+          source: "http://stream.zeno.fm/y7n8qfmh838uv",
          url: "http://stream.zeno.fm/y7n8qfmh838uv",
            favorited: false
         },
@@ -21,8 +21,8 @@ new Vue({
           name: "2",
           artist: "Alka Yagnik, Arjit Singh",
           cover: "https://www.dropbox.com/s/yu1r9cfz7f63bq0/img_20220109_161126.jpg?dl=1",
-          source: "https://www.dropbox.com/s/qrqx5kkzjize681/agar_tum_saath_ho.mp3?dl=1",
-          url: "http://stream.zeno.fm/39zagfub938uv",
+          source: "http://stream.zeno.fm/y7n8qfmh838uv",
+          url: "http://stream.zeno.fm/y7n8qfmh838uv",
           favorited: true
         },
         {
