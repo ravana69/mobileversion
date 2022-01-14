@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Malayalam FM 1",
           artist: "@r4v4n4",
-          cover: "https://github.com/ravana69/html1/blob/main/asset/malayalam1.png",
+          cover: "./asset/malayalam1.png",
           source: "http://stream.zeno.fm/y7n8qfmh838uv",
          url: "http://stream.zeno.fm/y7n8qfmh838uv",
            favorited: false
