@@ -20,34 +20,34 @@ new Vue({
         {
           name: "Malayalam FM 2",
           artist: "@r4v4n4",
-          cover: "https://github.com/ravana69/html1/blob/main/asset/malayalam2.jpeg",
+          cover: "asset/malayalam2.jpeg",
           source: "http://stream.zeno.fm/39zagfub938uv",
           url: "http://stream.zeno.fm/39zagfub938uv",
           favorited: false
         },
         {
+          name: "Malayalam FM 3",
+          artist: "@r4v4n4",
+          cover: "asset/malayalam3.png",
+          source: "http://stream.zeno.fm/r8d5gau35bhvv",
+          url: "http://stream.zeno.fm/r8d5gau35bhvv",
+          favorited: false
+        },
+        {
           name: "Hindi FM",
           artist: "@r4v4n4",
-          cover: "https://github.com/ravana69/html1/blob/main/asset/hin.jpeg",
+          cover: "asset/hin.jpeg",
           source: "http://stream.zeno.fm/ukc8b9e5a48uv",
           url: "http://stream.zeno.fm/ukc8b9e5a48uv",
           favorited: false
         },
         {
-          name: "Thoda Thoda Pyaar",
-          artist: "Stebin Ben, Nilesh Ahuja,Kumaar",
-          cover: "https://www.dropbox.com/s/kesnuqfhkga6rwj/img_20220109_161350.jpg?dl=1",
-          source: "https://www.dropbox.com/s/6ez7sr49fa0x9ma/thoda_thoda_pyaar.mp3?dl=1",
-          url: "https://youtu.be/USccSZnS8MQ",
-          favorited: true
-        },
-        {
-          name: "Thoda Thoda Pyaar",
-          artist: "Stebin Ben, Nilesh Ahuja,Kumaar",
-          cover: "https://www.dropbox.com/s/kesnuqfhkga6rwj/img_20220109_161350.jpg?dl=1",
-          source: "https://www.dropbox.com/s/6ez7sr49fa0x9ma/thoda_thoda_pyaar.mp3?dl=1",
-          url: "https://youtu.be/USccSZnS8MQ",
-          favorited: true
+          name: "English FM",
+          artist: "@r4v4v4",
+          cover: "asset/eng.jpeg",
+          source: "http://stream.zeno.fm/v5c2bw72p48uv",
+          url: "http://stream.zeno.fm/v5c2bw72p48uv",
+          favorited: false
         },
       ],
       currentTrack: null,
