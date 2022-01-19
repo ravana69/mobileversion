@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Malayalam FM 1",
           artist: "@r4v4n4",
-          cover: "asset/malayalam1.png",
+          cover: "asset/malayalam.jpg",
           source: "http://stream.zeno.fm/y7n8qfmh838uv",
          url: "http://stream.zeno.fm/y7n8qfmh838uv",
            favorited: false
@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Malayalam FM 2",
           artist: "@r4v4n4",
-          cover: "asset/malayalam2.jpeg",
+          cover: "asset/malayalam2.jpg",
           source: "http://stream.zeno.fm/39zagfub938uv",
           url: "http://stream.zeno.fm/39zagfub938uv",
           favorited: false
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "Hindi FM",
           artist: "@r4v4n4",
-          cover: "asset/hin.jpeg",
+          cover: "asset/bollywood.jpg",
           source: "http://stream.zeno.fm/ukc8b9e5a48uv",
           url: "http://stream.zeno.fm/ukc8b9e5a48uv",
           favorited: false
@@ -44,7 +44,7 @@ new Vue({
         {
           name: "English FM",
           artist: "@r4v4v4",
-          cover: "asset/eng.jpeg",
+          cover: "asset/english.jpg",
           source: "http://stream.zeno.fm/v5c2bw72p48uv",
           url: "http://stream.zeno.fm/v5c2bw72p48uv",
           favorited: false
