@@ -256,7 +256,7 @@ body {
 }
 
 .player-controls__item.-favorite.active {
-  color: red;
+  color: blue;
 }
 
 [v-cloak] {
